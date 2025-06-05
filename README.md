@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/hotshott22/LC-solutions/tree/master/0120-triangle) |
 | [0287-find-the-duplicate-number](https://github.com/hotshott22/LC-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hotshott22/LC-solutions/tree/master/0062-unique-paths) |
+| [0120-triangle](https://github.com/hotshott22/LC-solutions/tree/master/0120-triangle) |
 ## Combinatorics
 |  |
 | ------- |
