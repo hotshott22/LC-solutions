@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hotshott22/LC-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0120-triangle](https://github.com/hotshott22/LC-solutions/tree/master/0120-triangle) |
+| [0136-single-number](https://github.com/hotshott22/LC-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/hotshott22/LC-solutions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/hotshott22/LC-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/hotshott22/LC-solutions/tree/master/0485-max-consecutive-ones) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/hotshott22/LC-solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/hotshott22/LC-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
