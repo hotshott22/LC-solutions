@@ -4,9 +4,15 @@ public:
 
         int ans=start^goal;
 
-        int ansu= __builtin_popcount(ans);
+        // int ansu= __builtin_popcount(ans);
 
-        return ansu;
-        
+        // return ansu;
+
+        int c=0;
+        while(ans){
+            c+=ans&1;
+            ans>>=1;
+        }
+        return c;
     }
 };
