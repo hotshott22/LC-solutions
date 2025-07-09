@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hotshott22/LC-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/hotshott22/LC-solutions/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/hotshott22/LC-solutions/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/hotshott22/LC-solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/hotshott22/LC-solutions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/hotshott22/LC-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/hotshott22/LC-solutions/tree/master/0485-max-consecutive-ones) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/hotshott22/LC-solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hotshott22/LC-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/hotshott22/LC-solutions/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/hotshott22/LC-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
