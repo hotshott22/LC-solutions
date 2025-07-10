@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/hotshott22/LC-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hotshott22/LC-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/hotshott22/LC-solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/hotshott22/LC-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/hotshott22/LC-solutions/tree/master/0496-next-greater-element-i) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hotshott22/LC-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Stack
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/hotshott22/LC-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hotshott22/LC-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 ## String
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/hotshott22/LC-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/hotshott22/LC-solutions/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/hotshott22/LC-solutions/tree/master/0402-remove-k-digits) |
+| [0451-sort-characters-by-frequency](https://github.com/hotshott22/LC-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/hotshott22/LC-solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/hotshott22/LC-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/hotshott22/LC-solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -163,4 +166,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/hotshott22/LC-solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/hotshott22/LC-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/hotshott22/LC-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/hotshott22/LC-solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
