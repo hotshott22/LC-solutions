@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/hotshott22/LC-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/hotshott22/LC-solutions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/hotshott22/LC-solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1078-remove-outermost-parentheses](https://github.com/hotshott22/LC-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/hotshott22/LC-solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/hotshott22/LC-solutions/tree/master/0402-remove-k-digits) |
+| [1078-remove-outermost-parentheses](https://github.com/hotshott22/LC-solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
