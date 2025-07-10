@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/hotshott22/LC-solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/hotshott22/LC-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/hotshott22/LC-solutions/tree/master/0402-remove-k-digits) |
+| [0812-rotate-string](https://github.com/hotshott22/LC-solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/hotshott22/LC-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/hotshott22/LC-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hotshott22/LC-solutions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/hotshott22/LC-solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
