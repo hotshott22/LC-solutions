@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/hotshott22/LC-solutions/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/hotshott22/LC-solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/hotshott22/LC-solutions/tree/master/0189-rotate-array) |
+| [2032-largest-odd-number-in-string](https://github.com/hotshott22/LC-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hotshott22/LC-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
@@ -134,10 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/hotshott22/LC-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/hotshott22/LC-solutions/tree/master/0402-remove-k-digits) |
 | [1078-remove-outermost-parentheses](https://github.com/hotshott22/LC-solutions/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/hotshott22/LC-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/hotshott22/LC-solutions/tree/master/0402-remove-k-digits) |
+| [2032-largest-odd-number-in-string](https://github.com/hotshott22/LC-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |
