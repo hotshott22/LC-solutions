@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/hotshott22/LC-solutions/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/hotshott22/LC-solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/hotshott22/LC-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1036-rotting-oranges](https://github.com/hotshott22/LC-solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/hotshott22/LC-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hotshott22/LC-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/hotshott22/LC-solutions/tree/master/2227-sum-of-subarray-ranges) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/hotshott22/LC-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/hotshott22/LC-solutions/tree/master/0073-set-matrix-zeroes) |
+| [1036-rotting-oranges](https://github.com/hotshott22/LC-solutions/tree/master/1036-rotting-oranges) |
 ## Trie
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/hotshott22/LC-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0547-number-of-provinces](https://github.com/hotshott22/LC-solutions/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/hotshott22/LC-solutions/tree/master/1036-rotting-oranges) |
 ## Divide and Conquer
 |  |
 | ------- |
