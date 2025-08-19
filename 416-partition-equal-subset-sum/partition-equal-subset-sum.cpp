@@ -1,23 +1,43 @@
 class Solution {
 public:
-    bool canPartition(vector<int>& nums) {
 
-        int totalSum = 0;
-        for (int num : nums) totalSum += num;
+    bool subsetsum(vector<int> &nums, int n, int sum)
+    {
+        bool dp[n+1][sum+1];
 
-        if (totalSum % 2 != 0) return false;
-
-        int targetSum = totalSum / 2;
-        vector<bool> dp(targetSum + 1, false);
-        dp[0] = true;
-        for (int num : nums) {
-            for (int currSum = targetSum; currSum >= num; --currSum) {
-                dp[currSum] = dp[currSum] || dp[currSum - num];
-                if (dp[targetSum]) return true;
+        for(int i=0;i<=nums.size();i++)
+        {
+            for(int j=0;j<=sum;j++)
+            {
+                if(i==0)    dp[i][j]=false;
+                if(j==0)    dp[i][j] = true;
             }
         }
-        return dp[targetSum];
 
+        for(int i=1;i<=n;i++)
+        {
+            for(int j=0;j<=sum;j++)
+            {
+                if(nums[i-1]<=j) 
+                  {
+                    dp[i][j] = dp[i-1][j - nums[i-1]] || dp[i-1][j];
+
+                  }  
+                else    dp[i][j]=dp[i-1][j];
+            }
+
+        }   
+        return dp[n][sum]; 
+    }
+    bool canPartition(vector<int>& nums) {
+        int n = nums.size(); 
+        int sum = 0 ; 
         
+        for( auto i :nums) sum+= i;
+          if( sum % 2 != 0 ){
+              return false ; 
+          }
+           else return subsetsum( nums, n , sum/2 );
+
     }
 };
