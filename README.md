@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hotshott22/LC-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/hotshott22/LC-solutions/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/hotshott22/LC-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/hotshott22/LC-solutions/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/hotshott22/LC-solutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/hotshott22/LC-solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/hotshott22/LC-solutions/tree/master/0496-next-greater-element-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/hotshott22/LC-solutions/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/hotshott22/LC-solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/hotshott22/LC-solutions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/hotshott22/LC-solutions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/hotshott22/LC-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/hotshott22/LC-solutions/tree/master/0518-coin-change-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/hotshott22/LC-solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/hotshott22/LC-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0322-coin-change](https://github.com/hotshott22/LC-solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/hotshott22/LC-solutions/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/hotshott22/LC-solutions/tree/master/1036-rotting-oranges) |
 ## Divide and Conquer
