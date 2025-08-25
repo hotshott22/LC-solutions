@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/hotshott22/LC-solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/hotshott22/LC-solutions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/hotshott22/LC-solutions/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/hotshott22/LC-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/hotshott22/LC-solutions/tree/master/0518-coin-change-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/hotshott22/LC-solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1250-longest-common-subsequence](https://github.com/hotshott22/LC-solutions/tree/master/1250-longest-common-subsequence) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/hotshott22/LC-solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/hotshott22/LC-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/hotshott22/LC-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/hotshott22/LC-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0812-rotate-string](https://github.com/hotshott22/LC-solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/hotshott22/LC-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/hotshott22/LC-solutions/tree/master/1250-longest-common-subsequence) |
