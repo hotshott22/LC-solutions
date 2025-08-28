@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/hotshott22/LC-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/hotshott22/LC-solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/hotshott22/LC-solutions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/hotshott22/LC-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hotshott22/LC-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/hotshott22/LC-solutions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/hotshott22/LC-solutions/tree/master/0217-contains-duplicate) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/hotshott22/LC-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hotshott22/LC-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hotshott22/LC-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/hotshott22/LC-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hotshott22/LC-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hotshott22/LC-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/hotshott22/LC-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hotshott22/LC-solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/hotshott22/LC-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hotshott22/LC-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 ## String
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hotshott22/LC-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hotshott22/LC-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hotshott22/LC-solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/hotshott22/LC-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hotshott22/LC-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/hotshott22/LC-solutions/tree/master/0169-majority-element) |
 ## Union Find
 |  |
 | ------- |
