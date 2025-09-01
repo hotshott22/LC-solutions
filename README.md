@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/hotshott22/LC-solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/hotshott22/LC-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/hotshott22/LC-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/hotshott22/LC-solutions/tree/master/0338-counting-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/hotshott22/LC-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hotshott22/LC-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/hotshott22/LC-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/hotshott22/LC-solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/hotshott22/LC-solutions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/hotshott22/LC-solutions/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/hotshott22/LC-solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/hotshott22/LC-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/hotshott22/LC-solutions/tree/master/0518-coin-change-ii) |
