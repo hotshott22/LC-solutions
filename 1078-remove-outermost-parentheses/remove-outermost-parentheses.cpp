@@ -5,11 +5,21 @@ public:
         string res;
         int bal=0;
 
-        for(char c:s){
-            if(c=='(' && bal++>0) res+=c;
-            if(c==')' && bal-->1) res+=c;
+        for(int i=0;i<s.size();i++)
+        {
+            if(s[i]=='('){
+                if(bal>0)   res+=s[i];
+                bal++;
+            }
+            else
+            {
+                bal--;
+                if(bal>0){
+                    res+=s[i];
+                }
+            }
+            
         }
         return res;
-        
     }
 };
