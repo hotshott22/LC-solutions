@@ -1,7 +1,6 @@
 class Solution {
 public:
     long long maximumSubarraySum(vector<int>& nums, int k) {
-        // Aditya Verma is G.O.A.T
         long long sum = 0;
         long long maxi = 0;
         int i=0, j=0;
