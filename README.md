@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hotshott22/LC-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hotshott22/LC-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hotshott22/LC-solutions/tree/master/0268-missing-number) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/hotshott22/LC-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/hotshott22/LC-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hotshott22/LC-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/hotshott22/LC-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/hotshott22/LC-solutions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/hotshott22/LC-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/hotshott22/LC-solutions/tree/master/0242-valid-anagram) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/hotshott22/LC-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/hotshott22/LC-solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/hotshott22/LC-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hotshott22/LC-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hotshott22/LC-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/hotshott22/LC-solutions/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/hotshott22/LC-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/hotshott22/LC-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hotshott22/LC-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/hotshott22/LC-solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/hotshott22/LC-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/hotshott22/LC-solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/hotshott22/LC-solutions/tree/master/0191-number-of-1-bits) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/hotshott22/LC-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Union Find
 |  |
 | ------- |
