@@ -295,10 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/hotshott22/LC-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/hotshott22/LC-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hotshott22/LC-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/hotshott22/LC-solutions/tree/master/0513-find-bottom-left-tree-value) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hotshott22/LC-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/hotshott22/LC-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/hotshott22/LC-solutions/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
@@ -306,11 +308,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/hotshott22/LC-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/hotshott22/LC-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hotshott22/LC-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/hotshott22/LC-solutions/tree/master/0513-find-bottom-left-tree-value) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/hotshott22/LC-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0322-coin-change](https://github.com/hotshott22/LC-solutions/tree/master/0322-coin-change) |
+| [0513-find-bottom-left-tree-value](https://github.com/hotshott22/LC-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/hotshott22/LC-solutions/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/hotshott22/LC-solutions/tree/master/1036-rotting-oranges) |
 ## Divide and Conquer
