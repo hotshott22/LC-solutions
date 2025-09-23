@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/hotshott22/LC-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/hotshott22/LC-solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/hotshott22/LC-solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1073-number-of-enclaves](https://github.com/hotshott22/LC-solutions/tree/master/1073-number-of-enclaves) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hotshott22/LC-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/hotshott22/LC-solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hotshott22/LC-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/hotshott22/LC-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/hotshott22/LC-solutions/tree/master/0073-set-matrix-zeroes) |
 | [1036-rotting-oranges](https://github.com/hotshott22/LC-solutions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/hotshott22/LC-solutions/tree/master/1073-number-of-enclaves) |
 ## Trie
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hotshott22/LC-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/hotshott22/LC-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/hotshott22/LC-solutions/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/hotshott22/LC-solutions/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/hotshott22/LC-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/hotshott22/LC-solutions/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/hotshott22/LC-solutions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/hotshott22/LC-solutions/tree/master/1073-number-of-enclaves) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/hotshott22/LC-solutions/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/hotshott22/LC-solutions/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
