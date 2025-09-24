@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hotshott22/LC-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/hotshott22/LC-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/hotshott22/LC-solutions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/hotshott22/LC-solutions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/hotshott22/LC-solutions/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/hotshott22/LC-solutions/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/hotshott22/LC-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/hotshott22/LC-solutions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/hotshott22/LC-solutions/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/hotshott22/LC-solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/hotshott22/LC-solutions/tree/master/1073-number-of-enclaves) |
 ## Divide and Conquer
@@ -332,11 +334,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/hotshott22/LC-solutions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/hotshott22/LC-solutions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/hotshott22/LC-solutions/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/hotshott22/LC-solutions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/hotshott22/LC-solutions/tree/master/0801-is-graph-bipartite) |
 ## Backtracking
 |  |
 | ------- |
