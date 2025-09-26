@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/hotshott22/LC-solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/hotshott22/LC-solutions/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/hotshott22/LC-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/hotshott22/LC-solutions/tree/master/0611-valid-triangle-number) |
 | [0735-asteroid-collision](https://github.com/hotshott22/LC-solutions/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/hotshott22/LC-solutions/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/hotshott22/LC-solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hotshott22/LC-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/hotshott22/LC-solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/hotshott22/LC-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0611-valid-triangle-number](https://github.com/hotshott22/LC-solutions/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/hotshott22/LC-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hotshott22/LC-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/hotshott22/LC-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/hotshott22/LC-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/hotshott22/LC-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0611-valid-triangle-number](https://github.com/hotshott22/LC-solutions/tree/master/0611-valid-triangle-number) |
 | [0907-koko-eating-bananas](https://github.com/hotshott22/LC-solutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/hotshott22/LC-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/hotshott22/LC-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hotshott22/LC-solutions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/hotshott22/LC-solutions/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/hotshott22/LC-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0611-valid-triangle-number](https://github.com/hotshott22/LC-solutions/tree/master/0611-valid-triangle-number) |
 | [2032-largest-odd-number-in-string](https://github.com/hotshott22/LC-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
 |  |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hotshott22/LC-solutions/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/hotshott22/LC-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/hotshott22/LC-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0611-valid-triangle-number](https://github.com/hotshott22/LC-solutions/tree/master/0611-valid-triangle-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
