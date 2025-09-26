@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/hotshott22/LC-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/hotshott22/LC-solutions/tree/master/1073-number-of-enclaves) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hotshott22/LC-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hotshott22/LC-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2227-sum-of-subarray-ranges](https://github.com/hotshott22/LC-solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hotshott22/LC-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2751-sliding-subarray-beauty](https://github.com/hotshott22/LC-solutions/tree/master/2751-sliding-subarray-beauty) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/hotshott22/LC-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0907-koko-eating-bananas](https://github.com/hotshott22/LC-solutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/hotshott22/LC-solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hotshott22/LC-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
 |  |
 | ------- |
