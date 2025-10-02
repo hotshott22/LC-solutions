@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hotshott22/LC-solutions/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/hotshott22/LC-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/hotshott22/LC-solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/hotshott22/LC-solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/hotshott22/LC-solutions/tree/master/0189-rotate-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hotshott22/LC-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/hotshott22/LC-solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/hotshott22/LC-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/hotshott22/LC-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hotshott22/LC-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hotshott22/LC-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/hotshott22/LC-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/hotshott22/LC-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/hotshott22/LC-solutions/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/hotshott22/LC-solutions/tree/master/0072-edit-distance) |
