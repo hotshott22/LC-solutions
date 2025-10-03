@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hotshott22/LC-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/hotshott22/LC-solutions/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/hotshott22/LC-solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/hotshott22/LC-solutions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hotshott22/LC-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3936-split-array-by-prime-indices](https://github.com/hotshott22/LC-solutions/tree/master/3936-split-array-by-prime-indices) |
 ## Dynamic Programming
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/hotshott22/LC-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/hotshott22/LC-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/hotshott22/LC-solutions/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/hotshott22/LC-solutions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hotshott22/LC-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
