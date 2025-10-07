@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/hotshott22/LC-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/hotshott22/LC-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/hotshott22/LC-solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/hotshott22/LC-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/hotshott22/LC-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hotshott22/LC-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/hotshott22/LC-solutions/tree/master/0229-majority-element-ii) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/hotshott22/LC-solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/hotshott22/LC-solutions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/hotshott22/LC-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/hotshott22/LC-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hotshott22/LC-solutions/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/hotshott22/LC-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/hotshott22/LC-solutions/tree/master/0402-remove-k-digits) |
