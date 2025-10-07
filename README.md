@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/hotshott22/LC-solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/hotshott22/LC-solutions/tree/master/0371-sum-of-two-integers) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/hotshott22/LC-solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1873-longest-nice-substring](https://github.com/hotshott22/LC-solutions/tree/master/1873-longest-nice-substring) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/hotshott22/LC-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hotshott22/LC-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/hotshott22/LC-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hotshott22/LC-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hotshott22/LC-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1873-longest-nice-substring](https://github.com/hotshott22/LC-solutions/tree/master/1873-longest-nice-substring) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/hotshott22/LC-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hotshott22/LC-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2751-sliding-subarray-beauty](https://github.com/hotshott22/LC-solutions/tree/master/2751-sliding-subarray-beauty) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/hotshott22/LC-solutions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/hotshott22/LC-solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/hotshott22/LC-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1873-longest-nice-substring](https://github.com/hotshott22/LC-solutions/tree/master/1873-longest-nice-substring) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/hotshott22/LC-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/hotshott22/LC-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/hotshott22/LC-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/hotshott22/LC-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hotshott22/LC-solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1873-longest-nice-substring](https://github.com/hotshott22/LC-solutions/tree/master/1873-longest-nice-substring) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hotshott22/LC-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2751-sliding-subarray-beauty](https://github.com/hotshott22/LC-solutions/tree/master/2751-sliding-subarray-beauty) |
 ## Prefix Sum
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/hotshott22/LC-solutions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hotshott22/LC-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/hotshott22/LC-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1873-longest-nice-substring](https://github.com/hotshott22/LC-solutions/tree/master/1873-longest-nice-substring) |
 ## Union Find
 |  |
 | ------- |
