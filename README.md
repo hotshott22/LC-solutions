@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/hotshott22/LC-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/hotshott22/LC-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/hotshott22/LC-solutions/tree/master/0611-valid-triangle-number) |
+| [0643-maximum-average-subarray-i](https://github.com/hotshott22/LC-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/hotshott22/LC-solutions/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/hotshott22/LC-solutions/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/hotshott22/LC-solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/hotshott22/LC-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hotshott22/LC-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/hotshott22/LC-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/hotshott22/LC-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/hotshott22/LC-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/hotshott22/LC-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hotshott22/LC-solutions/tree/master/1370-count-number-of-nice-subarrays) |
