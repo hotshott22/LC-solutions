@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/hotshott22/LC-solutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/hotshott22/LC-solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/hotshott22/LC-solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/hotshott22/LC-solutions/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/hotshott22/LC-solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/hotshott22/LC-solutions/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/hotshott22/LC-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/hotshott22/LC-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/hotshott22/LC-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/hotshott22/LC-solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/hotshott22/LC-solutions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/hotshott22/LC-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/hotshott22/LC-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/hotshott22/LC-solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/hotshott22/LC-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hotshott22/LC-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/hotshott22/LC-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/hotshott22/LC-solutions/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/hotshott22/LC-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0812-rotate-string](https://github.com/hotshott22/LC-solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/hotshott22/LC-solutions/tree/master/1078-remove-outermost-parentheses) |
