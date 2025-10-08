@@ -1,20 +1,20 @@
 class Solution {
 public:
     int longestPalindrome(string s) {
-        map<char,int>m;
-        int cnt=0,one=0;
-        for(int i=0; i<s.size(); i++)
-        {
-            m[s[i]]++;    
+        unordered_map<char, int> mp;
+        for(auto i : s) {
+            mp[i]++;
         }
-        for(auto i:m)
-        {
-            if(i.second>1)
-            cnt+=i.second/2*(2);  
-
-            if(i.second%2)  
-            one=1;
+        int ans = 0;
+        bool isOddPresent = false;
+        for(auto i : mp) {
+            if(i.second % 2 == 0) ans += i.second;
+            else {
+                ans += i.second - 1;
+                isOddPresent = true;
+            }
         }
-        return cnt+one;
+        if(isOddPresent) ans += 1;
+        return ans;
     }
 };
