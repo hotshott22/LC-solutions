@@ -1,24 +1,33 @@
 class Solution {
 public:
     vector<string> findWords(vector<string>& words) {
-     string s1="qwertyuiop";
-     string s2="asdfghjkl";
-     string s3="zxcvbnm";
-     vector<string>res;
-     map<char,int>mp;
-     for(auto &it:s1)mp[it]=1;
-     for(auto &it:s2)mp[it]=2;
-     for(auto &it:s3)mp[it]=3;
-
-     for(auto &it:words){
-         int i;
-         for( i=1;i<it.size();i++){
-             if(mp[tolower(it[i])]!=mp[tolower(it[i-1])]){
-                 break;
-             }
-         }
-         if(i==it.size())res.push_back(it);
-     }
-     return res;
+        string s1="qwertyuiop";
+        string s2="asdfghjkl";
+        string s3="zxcvbnm";
+        map<char,int> mp;
+        for(auto c : s1) {
+            mp[c] = 1;
+        }
+        for(auto c : s2) {
+            mp[c] = 2;
+        }
+        for(auto c : s3) {
+            mp[c] = 3;
+        }
+        vector<string> ans;
+        for(auto r : words) {
+            bool flag = true;
+            int row = mp[tolower(r[0])]; 
+            for(auto c : r) {
+                if(mp[tolower(c)] != row) { 
+                    flag = false;
+                    break;
+                }
+            }
+            if(flag) {
+                ans.push_back(r);
+            }
+        }
+        return ans;
     }
 };
