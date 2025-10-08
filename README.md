@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/hotshott22/LC-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/hotshott22/LC-solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/hotshott22/LC-solutions/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/hotshott22/LC-solutions/tree/master/0389-find-the-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/hotshott22/LC-solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1873-longest-nice-substring](https://github.com/hotshott22/LC-solutions/tree/master/1873-longest-nice-substring) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/hotshott22/LC-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/hotshott22/LC-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hotshott22/LC-solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/hotshott22/LC-solutions/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/hotshott22/LC-solutions/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/hotshott22/LC-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/hotshott22/LC-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hotshott22/LC-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/hotshott22/LC-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hotshott22/LC-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/hotshott22/LC-solutions/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/hotshott22/LC-solutions/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/hotshott22/LC-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/hotshott22/LC-solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/hotshott22/LC-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/hotshott22/LC-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hotshott22/LC-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hotshott22/LC-solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/hotshott22/LC-solutions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/hotshott22/LC-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/hotshott22/LC-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/hotshott22/LC-solutions/tree/master/0594-longest-harmonious-subsequence) |
