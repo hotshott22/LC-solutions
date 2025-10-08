@@ -1,21 +1,18 @@
 class Solution {
 public:
     int distributeCandies(vector<int>& candyType) {
-        int n = candyType.size();
-        sort(candyType.begin(), candyType.end());
-        int ans = 1; 
-        for(int i = 0; i < n-1; i++)
+        unordered_set<int>s;
+        
+        int n=candyType.size();
+        for(int i=0;i<n;i++)
         {
-            if(candyType[i] != candyType[i+1])
-            {
-                ans++;
-            }
+            s.insert(candyType[i]);
         }
-        int check = n/2;
-        if(ans > check)
+        n/=2;
+        if(s.size()<n)
         {
-            ans = check;
+            return s.size();
         }
-        return ans;
+        return  n;
     }
 };
