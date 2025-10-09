@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hotshott22/LC-solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/hotshott22/LC-solutions/tree/master/0371-sum-of-two-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hotshott22/LC-solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/hotshott22/LC-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2032-largest-odd-number-in-string](https://github.com/hotshott22/LC-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/hotshott22/LC-solutions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hotshott22/LC-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/hotshott22/LC-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1170-shortest-common-supersequence](https://github.com/hotshott22/LC-solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/hotshott22/LC-solutions/tree/master/1250-longest-common-subsequence) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/hotshott22/LC-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/hotshott22/LC-solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/hotshott22/LC-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1873-longest-nice-substring](https://github.com/hotshott22/LC-solutions/tree/master/1873-longest-nice-substring) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/hotshott22/LC-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/hotshott22/LC-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hotshott22/LC-solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/hotshott22/LC-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/hotshott22/LC-solutions/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/hotshott22/LC-solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hotshott22/LC-solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
