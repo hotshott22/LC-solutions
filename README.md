@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/hotshott22/LC-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2032-largest-odd-number-in-string](https://github.com/hotshott22/LC-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/hotshott22/LC-solutions/tree/master/2050-count-good-numbers) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/hotshott22/LC-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hotshott22/LC-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3936-split-array-by-prime-indices](https://github.com/hotshott22/LC-solutions/tree/master/3936-split-array-by-prime-indices) |
 ## Dynamic Programming
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/hotshott22/LC-solutions/tree/master/1873-longest-nice-substring) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/hotshott22/LC-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/hotshott22/LC-solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/hotshott22/LC-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hotshott22/LC-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2751-sliding-subarray-beauty](https://github.com/hotshott22/LC-solutions/tree/master/2751-sliding-subarray-beauty) |
 ## Stack
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/hotshott22/LC-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/hotshott22/LC-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/hotshott22/LC-solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/hotshott22/LC-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## String
 |  |
 | ------- |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/hotshott22/LC-solutions/tree/master/0494-target-sum) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/hotshott22/LC-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Queue
 |  |
 | ------- |
@@ -500,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/hotshott22/LC-solutions/tree/master/0937-online-stock-span) |
+## Enumeration
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/hotshott22/LC-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
