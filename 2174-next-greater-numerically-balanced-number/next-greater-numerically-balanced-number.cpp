@@ -1,49 +1,30 @@
 class Solution {
 public:
-
-bool isB(const vector<int>& count)
-{
-    for(int d=1; d<=7;d++)
-    {
-        if(count[d]!=0 && count[d]!=d)  return false;
-
+bool isbal(int n){
+        vector<int> v(10);
         
-    }
-
-    return true;
-}
-
-void gen(long num,vector<int>& count, vector<int>& list)
-{
-    if(num>0 && isB(count))
-    {
-        list.push_back((int)num);
-    }
-
-    if(num>1224444) return;
-
-    for(int d=1;d<=7;d++)
-    {
-        if(count[d]<d)
-        {
-            count[d]++;
-            gen(num*10+d,count,list);
-            count[d]--;
+        
+        while(n){
+            v[n%10]++;
+            n/=10;
         }
+        
+        
+       for(int i=0;i<10;i++){
+           if(v[i] and i!=v[i]) return false;
+       }
+        
+        return true;
     }
-}
-
-
     int nextBeautifulNumber(int n) {
-        vector<int>list;
-        vector<int> count(10,0);
-        gen(0,count,list);
-
-        sort(list.begin(),list.end());
-
-        for(int num:list)
-            if(num>n)   return num;
-
-        return -1;    
+        
+        for(int i=n+1;i<1e8;i++){
+            
+            if(isbal(i)){
+                return i;
+            }
+        }
+        return 1;
     }
+
 };
