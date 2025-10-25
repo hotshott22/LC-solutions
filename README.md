@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/hotshott22/LC-solutions/tree/master/0371-sum-of-two-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hotshott22/LC-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/hotshott22/LC-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/hotshott22/LC-solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/hotshott22/LC-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/hotshott22/LC-solutions/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/hotshott22/LC-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
