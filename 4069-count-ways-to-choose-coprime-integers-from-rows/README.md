@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-ways-to-choose-coprime-integers-from-rows">Count Ways to Choose Coprime Integers from Rows</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>You are given a <code>m x n</code> matrix <code>mat</code> of positive integers.</p>
+<h2><a href="https://leetcode.com/problems/count-ways-to-choose-coprime-integers-from-rows/solutions/7300352/count-all-coprime-paths-in-a-matrix-dp-gcd-optimization/">4069. Count Ways to Choose Coprime Integers from Rows</a></h2><h3>Hard</h3><hr><p>You are given a <code>m x n</code> matrix <code>mat</code> of positive integers.</p>
 
 <p>Return an integer denoting the number of ways to choose <strong>exactly one</strong> integer from each row of <code>mat</code> such that the <strong>greatest common divisor</strong> of all chosen integers is 1.</p>
 
