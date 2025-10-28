@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs">3416. Sum of Digit Differences of All Pairs</a></h2><h3>Medium</h3><hr><p>You are given an array <code>nums</code> consisting of <strong>positive</strong> integers where all integers have the <strong>same</strong> number of digits.</p>
+<h2><a href="https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs">Sum of Digit Differences of All Pairs</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an array <code>nums</code> consisting of <strong>positive</strong> integers where all integers have the <strong>same</strong> number of digits.</p>
 
 <p>The <strong>digit difference</strong> between two integers is the <em>count</em> of different digits that are in the <strong>same</strong> position in the two integers.</p>
 
