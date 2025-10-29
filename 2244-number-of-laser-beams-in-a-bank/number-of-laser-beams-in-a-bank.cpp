@@ -1,31 +1,22 @@
 class Solution {
 public:
     int numberOfBeams(vector<string>& bank) {
-        int ans=0;
+        int ans=0,prev=0,c=0;
 
-        vector<int>lc;
-
-        for(int i=0;i<bank.size();i++)
+        for(string s:bank)
         {
-            int c=0;
-            string cs = bank[i];
-            for(long j=0;j<cs.size();j++)
+            c=0;
+
+            for(int i=0;i<s.size();i++)
+                if(s[i]=='1')   c++;
+
+            if(c)
             {
-                if(cs[j]=='1') c++;
-            }
-            if(c!=0)
-                lc.push_back(c);
-        }
-
-        for(int i=1;i<lc.size();i++)
-        {
-            int x=lc[i]*lc[i-1];
-            
-            ans+=x;
+                ans+=prev*c;
+                prev=c;
+            }    
         }
 
         return ans;
-
-        
     }
 };
