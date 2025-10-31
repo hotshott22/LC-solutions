@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/hotshott22/LC-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/hotshott22/LC-solutions/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/hotshott22/LC-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2630-alternating-digit-sum](https://github.com/hotshott22/LC-solutions/tree/master/2630-alternating-digit-sum) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/hotshott22/LC-solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hotshott22/LC-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3936-split-array-by-prime-indices](https://github.com/hotshott22/LC-solutions/tree/master/3936-split-array-by-prime-indices) |
