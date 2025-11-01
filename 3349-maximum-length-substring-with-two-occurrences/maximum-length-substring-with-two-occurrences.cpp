@@ -5,14 +5,15 @@ public:
 
         int ml=0;
 
-        for(int i=0;i<n;i++)
+        map<char,int>mp;
+        int b=0,e=0;
+
+        while(e<n)
         {
-            vector<int>arr(26,0);
-            for(int j=i;j<n;j++)
-            {
-                if(++arr[s[j]-'a']==3)  break;
-                ml = max(ml,j-i+1);
-            }
+            mp[s[e]]++;
+            while(mp[s[e]]==3)  mp[s[b++]]--;
+            ml=max(ml,e-b+1);
+            e++;
         }
 
         return ml;
