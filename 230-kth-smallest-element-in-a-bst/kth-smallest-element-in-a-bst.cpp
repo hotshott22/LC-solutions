@@ -15,15 +15,16 @@ void pre(TreeNode* root, vector<int> &v)
 {
     if(root==NULL)  return;
 
-    v.push_back(root->val);
+    
     pre(root->left,v);
+    v.push_back(root->val);
     pre(root->right,v);
 }
     int kthSmallest(TreeNode* root, int k) {
         vector<int> v;
 
         pre(root,v);
-        sort(v.begin(),v.end());
+        // sort(v.begin(),v.end());
         return v[k-1];
     }
 };
