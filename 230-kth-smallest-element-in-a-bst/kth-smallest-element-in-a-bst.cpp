@@ -20,11 +20,29 @@ void pre(TreeNode* root, vector<int> &v)
     v.push_back(root->val);
     pre(root->right,v);
 }
-    int kthSmallest(TreeNode* root, int k) {
-        vector<int> v;
 
-        pre(root,v);
-        // sort(v.begin(),v.end());
-        return v[k-1];
+void solve(TreeNode* root, int &cnt, int &ans, int k)
+{
+    if(root==NULL)  return;
+
+    solve(root->left,cnt,ans,k);
+    cnt++;
+    if(cnt==k){
+        ans=root->val;
+        return;
+    }
+    solve(root->right,cnt,ans,k);
+}
+    int kthSmallest(TreeNode* root, int k) {
+        // vector<int> v;
+
+        // pre(root,v);
+        // // sort(v.begin(),v.end());
+        // return v[k-1];
+        int cnt=0;
+        int ans;
+        solve(root,cnt,ans,k);
+        return ans;
+
     }
 };
