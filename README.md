@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/hotshott22/LC-solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hotshott22/LC-solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/hotshott22/LC-solutions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/hotshott22/LC-solutions/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3936-split-array-by-prime-indices](https://github.com/hotshott22/LC-solutions/tree/master/3936-split-array-by-prime-indices) |
 ## Two Pointers
 |  |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/hotshott22/LC-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/hotshott22/LC-solutions/tree/master/0611-valid-triangle-number) |
 | [2032-largest-odd-number-in-string](https://github.com/hotshott22/LC-solutions/tree/master/2032-largest-odd-number-in-string) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/hotshott22/LC-solutions/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Matrix
 |  |
 | ------- |
@@ -388,11 +390,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/hotshott22/LC-solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hotshott22/LC-solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hotshott22/LC-solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/hotshott22/LC-solutions/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hotshott22/LC-solutions/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/hotshott22/LC-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/hotshott22/LC-solutions/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Bucket Sort
 |  |
 | ------- |
