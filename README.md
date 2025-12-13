@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2630-alternating-digit-sum](https://github.com/hotshott22/LC-solutions/tree/master/2630-alternating-digit-sum) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/hotshott22/LC-solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hotshott22/LC-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3765-complete-prime-number](https://github.com/hotshott22/LC-solutions/tree/master/3765-complete-prime-number) |
 | [3936-split-array-by-prime-indices](https://github.com/hotshott22/LC-solutions/tree/master/3936-split-array-by-prime-indices) |
 ## Dynamic Programming
 |  |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3765-complete-prime-number](https://github.com/hotshott22/LC-solutions/tree/master/3765-complete-prime-number) |
 | [3936-split-array-by-prime-indices](https://github.com/hotshott22/LC-solutions/tree/master/3936-split-array-by-prime-indices) |
 ## Tree
 |  |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/hotshott22/LC-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3765-complete-prime-number](https://github.com/hotshott22/LC-solutions/tree/master/3765-complete-prime-number) |
 ## Binary Search Tree
 |  |
 | ------- |
