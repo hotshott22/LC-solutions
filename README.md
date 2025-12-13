@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-sliding-subarray-beauty](https://github.com/hotshott22/LC-solutions/tree/master/2751-sliding-subarray-beauty) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/hotshott22/LC-solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hotshott22/LC-solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/hotshott22/LC-solutions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3936-split-array-by-prime-indices](https://github.com/hotshott22/LC-solutions/tree/master/3936-split-array-by-prime-indices) |
 ## Two Pointers
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/hotshott22/LC-solutions/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/hotshott22/LC-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hotshott22/LC-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/hotshott22/LC-solutions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hotshott22/LC-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/hotshott22/LC-solutions/tree/master/1646-kth-missing-positive-number) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hotshott22/LC-solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/hotshott22/LC-solutions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/hotshott22/LC-solutions/tree/master/1873-longest-nice-substring) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/hotshott22/LC-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hotshott22/LC-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/hotshott22/LC-solutions/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Math
 |  |
 | ------- |
