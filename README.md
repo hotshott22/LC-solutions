@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/hotshott22/LC-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hotshott22/LC-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hotshott22/LC-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/hotshott22/LC-solutions/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/hotshott22/LC-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hotshott22/LC-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hotshott22/LC-solutions/tree/master/0136-single-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hotshott22/LC-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/hotshott22/LC-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/hotshott22/LC-solutions/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/hotshott22/LC-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/hotshott22/LC-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hotshott22/LC-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/hotshott22/LC-solutions/tree/master/0143-reorder-list) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/hotshott22/LC-solutions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/hotshott22/LC-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/hotshott22/LC-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/hotshott22/LC-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hotshott22/LC-solutions/tree/master/0217-contains-duplicate) |
