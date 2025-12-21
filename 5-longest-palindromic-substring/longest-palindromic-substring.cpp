@@ -1,23 +1,29 @@
 class Solution {
 public:
-    string ans = "";
-    void expand(string &s , int left ,int right)
-    {
-        while(left >= 0 &&  right < s.size())
-        {
-            if(s[left] != s[right])
-                break;
-            left--,right++;
-        }
-        if(ans.size() < right - left )
-            ans = s.substr(left + 1 , right - left - 1);
-    }
     string longestPalindrome(string s) {
-        for(int i = 0 ; i < s.size() ; i++)
-        {
-            expand(s , i , i);
-            expand(s , i , i+1);
+        int n = s.size();
+        int maxLen = 0, start = 0;
+
+        auto isPalin = [&](int i, int j) {
+            while (i < j) {
+                if (s[i] != s[j]) return false;
+                i++;
+                j--;
+            }
+            return true;
+        };
+
+        for (int i = 0; i < n; i++) {
+            for (int j = i; j < n; j++) {
+                if (isPalin(i, j)) {
+                    int len = j - i + 1;
+                    if (len > maxLen) {
+                        maxLen = len;
+                        start = i;
+                    }
+                }
+            }
         }
-        return ans;
+        return s.substr(start, maxLen);
     }
 };
