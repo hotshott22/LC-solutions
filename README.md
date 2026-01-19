@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/hotshott22/LC-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/hotshott22/LC-solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/hotshott22/LC-solutions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/hotshott22/LC-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/hotshott22/LC-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/hotshott22/LC-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/hotshott22/LC-solutions/tree/master/0231-power-of-two) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hotshott22/LC-solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/hotshott22/LC-solutions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/hotshott22/LC-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/hotshott22/LC-solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/hotshott22/LC-solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/hotshott22/LC-solutions/tree/master/0120-triangle) |
@@ -548,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hotshott22/LC-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hotshott22/LC-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
