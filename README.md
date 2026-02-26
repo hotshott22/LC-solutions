@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/hotshott22/LC-solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/hotshott22/LC-solutions/tree/master/0389-find-the-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hotshott22/LC-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/hotshott22/LC-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/hotshott22/LC-solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1873-longest-nice-substring](https://github.com/hotshott22/LC-solutions/tree/master/1873-longest-nice-substring) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/hotshott22/LC-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/hotshott22/LC-solutions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/hotshott22/LC-solutions/tree/master/0735-asteroid-collision) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/hotshott22/LC-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hotshott22/LC-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hotshott22/LC-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/hotshott22/LC-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1170-shortest-common-supersequence](https://github.com/hotshott22/LC-solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/hotshott22/LC-solutions/tree/master/1250-longest-common-subsequence) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/hotshott22/LC-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/hotshott22/LC-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/hotshott22/LC-solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/hotshott22/LC-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
